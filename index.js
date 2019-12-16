@@ -1,7 +1,6 @@
 const Discord = require('discord.js');
 const {
 	prefix,
-	process.env.TOKEN,
 } = require('./config.json');
 const ytdl = require('ytdl-core');
 
